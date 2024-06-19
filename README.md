@@ -1,9 +1,9 @@
-Este repositorio contiene el código fuente y los recursos necesarios para aplicar la experimentación del Trabajo de Fin de Grado ’Detección de Sexismo e Intención del Autor en 
-Memes Basado en Transformers Utilizando un Enfoque de Aprendizaje con Desacuerdo’. Centrado en usar técnicas de aprendizaje automático, procesamiento del lenguaje natural y 
-Transformes para la detección de sexismo e intención del autor en memes utilizando un enfoque de aprendizaje con desacuerdo (Learning with Disagreement). Esta centrada en el 
-desarrollo y experimentación de las tareas 4 y 5 de la competición ’EXIST 2024: sEXism Identification in Social neTworks’.
+# Descripción del repositorio
 
-Contenido del repositorio
+Este repositorio contiene el código fuente y los recursos necesarios para aplicar la experimentación del Trabajo de Fin de Grado ’Detección de Sexismo e Intención del Autor en Memes Basado en Transformers Utilizando un Enfoque de Aprendizaje con Desacuerdo’. Centrado en usar técnicas de aprendizaje automático, procesamiento del lenguaje natural y Transformes para la detección de sexismo e intención del autor en memes utilizando un enfoque de aprendizaje con desacuerdo (*Learning with Disagreement*). Esta centrada en el desarrollo y experimentación de las tareas 4 y 5 de la competición ’*EXIST 2024: sEXism Identification in Social neTworks*’.
+
+# Contenido del repositorio
+
 En el repositorio se puede encontrar el siguiente contenido:
 - Descripción de tareas: Incluye el PDF dado por la organización donde se explica todo el contenido relacionado con las tareas.
 - Datasets: Carpeta donde se almacenan los diferentes dataset utilizados durante la experimentación y el test no etiquetado dado por la organización.
