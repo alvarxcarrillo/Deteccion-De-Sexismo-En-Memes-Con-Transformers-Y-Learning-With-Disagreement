@@ -10,6 +10,6 @@ En el repositorio se puede encontrar el siguiente contenido:
 - Preprocesamiento de datos: Carpeta donde se encuentra los cuadernos para la optimización de hiperparámetros y la construcción de nuevos conjuntos de datos.
 - Notebooks de Entrenamiento y Evaluación: Contiene los cuadernos desarrollados en Jupyter Notebook con el proceso de entrenamiento utilizado para el enfoque básico de votación
 mayoritaria tanto de texto como de imágenes. También están los cuadernos usando el enfoque de aprendizaje con desacuerdo basado en el estudio de las perspectivas de los anotadores.
-- Modelos: Incluye carpetas con los modelos finales para la evaluaci´on de las tareas 4 y 5.
+- Modelos: Incluye carpetas con los modelos finales para la evaluación de las tareas 4 y 5.
 - Evaluador: Carpeta que contiene los cuadernos desarrollados para la evaluación del dataset no etiquetado de ambas tareas.
 - Resultados: Archivo csv donde se almacen los diferentes resultados obtenidos durante la experimentación.
